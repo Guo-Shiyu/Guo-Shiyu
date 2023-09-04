@@ -1,4 +1,4 @@
-Hi 👋, I'm Guo Shiyu.   A programer/student in Chengdu.   
+  # Hi 👋, I'm Guo Shiyu.   A programer/student in Chengdu.   
 
 - 🌱 Work  - **HFT**
 
@@ -8,10 +8,10 @@ Hi 👋, I'm Guo Shiyu.   A programer/student in Chengdu.
 
 - 📫 Contact  - **im.shiyu1225@gmail**
 
-<figure class="half">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Guo-Shiyu&show_icons=true"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guo-Shiyu&layout=compact&hide_title=true&hide=html">
-</figure>
+# Github Readme Stat
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Guo-Shiyu&show_icons=true">
 
+# 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
 ```txt
