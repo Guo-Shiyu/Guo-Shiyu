@@ -2,7 +2,7 @@
 
 - 🌱 Work  - **HFT**
 
-- 📝 Blog - [**https://guo-shiyu.github.io/**](https://blog.scubot.com)
+- 📝 Blog - [**https://guo-shiyu.github.io/**](https://guo-shiyu.github.io/)
 
 - 🎈 Interest - **Compiler, VM**
 
