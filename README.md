@@ -1,4 +1,4 @@
-  # Hi 👋, I'm Guo Shiyu.   A programer/student in Chengdu.   
+  # Hi 👋, I'm Guo Shiyu.   
 
 - 🌱 Work  - **HFT**
 
