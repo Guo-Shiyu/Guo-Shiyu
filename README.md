@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
 C++           2 hrs 46 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.78 %
 Lua           1 hr 38 mins    ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.87 %
